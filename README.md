@@ -1,4 +1,5 @@
 # GiL
+# Can’t Spell Agile without #GiL
 Game is Life project repository
 
 ## Summary
